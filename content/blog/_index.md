@@ -4,6 +4,6 @@ date: 2019-03-01T13:38:47+01:00
 notoc: true
 ---
 
-# Blog
+# Juan Benet's Blog
 
-Writing goes here 
+This is my blog, yo.
