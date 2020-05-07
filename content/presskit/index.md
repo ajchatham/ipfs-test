@@ -10,17 +10,11 @@ Information for conferences and media outlets.
 ## Basic Information
 
 - **Name:** Andy Chatham
-- **Employer:** [Protocol Labs](https://dimo.zone)
+- **Employer:** [Digital Infrastructure Inc](https://dimo.zone)
 - **Title:** Founder of Digital Infrastructure Inc. 
 
-## Bios
-
-### Short Bio
+## Bio
 
 > Andy Chatham loves building systems that move things around. 
-## Headshot
 
-<!-- filled in automatically -->
-
-<a href="./andy=chatham-headshot.jpg"><img width="400px" src="headshots/andy=chatham-headshot.jpg" /></a>
 
