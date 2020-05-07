@@ -16,4 +16,3 @@ You can find me on these networks:
 - twitter: [@ajchatham](https://twitter.com/ajchatham)
 - keybase: [@ajchatham](https://keybase.io/ajchatham)
 
-**Please Note:** These days I receive vastly more messages than I can reasonably respond to. If I don't respond, please don't take it personally. I am more likely to respond if you get an introduction from someone I know (think of it like a _proof-of-work_).
