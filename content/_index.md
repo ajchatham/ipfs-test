@@ -12,9 +12,17 @@ layout: "single"
 
 ## Projects
 
-- A few [Playlists](https://open.spotify.com/user/125411272) I've been building since 2009
+- Some of the Autonomous Vehicle systems I've worked on.
+	
+	- Babcock Ranch [Florida] (https://www.forbes.com/sites/johnmcmanus/2018/10/22/in-autonomous-vehicles-future-garages-go-away-heres-10-big-re-impacts/#5855e23e4dc0)
 
+	- 61AV [Denver] (https://www.rtd-denver.com/projects/61av)
+	
+	- Olympic Park [Montreal] (https://nextcity.org/daily/entry/autonomous-shuttles-passenger-service-montreal)
+	
+	- Waymo [California, PHX] (https://www.theverge.com/2020/5/30/21275441/waymo-self-driving-car-delivery-bay-area-resume-covid)
 
+- I've been building a few [Playlists](https://open.spotify.com/user/125411272) on Spotify since 2009 
 
 ## Talks, Interviews, and other Media
 
