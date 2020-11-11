@@ -5,9 +5,7 @@ date: 2019-03-01T13:38:47+01:00
 
 # How to contact me
 
-Before contacting, try these:
-
-- For DIMO questions, try [dimo.zone](https://dimo.zone)
+For DIMO questions, try [dimo.zone](https://dimo.zone)
 
 You can find me on these networks:
 
