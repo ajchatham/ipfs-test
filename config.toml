@@ -1,14 +1,14 @@
-baseURL = "https://juan.benet.ai/"
+baseURL = "https://ajchatham.com/"
 languageCode = "en-us"
 canonifyurls = true
 relativeURLs = true
-googleAnalytics = "UA-48626381-1"
+googleAnalytics = "G-KJ9VP98G92"
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
-title = "jbenet's blog"
-name = "jbenet's blog"
+title = "Andy Chatham's blog"
+name = "Andy Chatham's blog"
 description = "a blog"
 
 [markup.goldmark.renderer]
