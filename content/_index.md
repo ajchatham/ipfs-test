@@ -1,12 +1,4 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJ9VP98G92"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-KJ9VP98G92');
-</script>
 ---
 title: "ajchatham.com"
 date: "2019-02-27T00:00:00"
