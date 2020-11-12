@@ -13,18 +13,19 @@ layout: "single"
 
 ## Projects
 
-- Some of the Autonomous Vehicle systems I've worked on.
-	
-	- Babcock Ranch [Florida](https://www.forbes.com/sites/johnmcmanus/2018/10/22/in-autonomous-vehicles-future-garages-go-away-heres-10-big-re-impacts/#5855e23e4dc0)
+- I've worked on a number of Transportation projects: 
+	- GM of California for [Transdev's](https://www.transdev.com/en/) operations contract with [Waymo](https://waymo.com/) 
+	-Directof of Product Development for automated shuttle projects:
+	-- Babcock Ranch [Florida](https://www.forbes.com/sites/johnmcmanus/2018/10/22/in-autonomous-vehicles-future-garages-go-away-heres-10-big-re-impacts/#5855e23e4dc0)
+	-- 61AV [Denver](https://www.rtd-denver.com/projects/61av)
+	-- Olympic Park [Montreal](https://nextcity.org/daily/entry/autonomous-shuttles-passenger-service-montreal)
 
-	- 61AV [Denver](https://www.rtd-denver.com/projects/61av)
-	
-	- Olympic Park [Montreal](https://nextcity.org/daily/entry/autonomous-shuttles-passenger-service-montreal)
-	
-	- Waymo [California, PHX](https://www.theverge.com/2020/5/30/21275441/waymo-self-driving-car-delivery-bay-area-resume-covid)
+- First employee of [Project 100](https://www.bloomberg.com/news/articles/2014-03-04/las-vegas-of-all-places-may-be-about-to-reinvent-car-ownership) (later called SHIFT) an early Mobility-as-a-Service company
 
 - I've been building a few [Playlists](https://open.spotify.com/user/125411272) on Spotify since 2009 
 
+- I hack on home Automation Projects with [HomeAssistant](https://www.home-assistant.io/)
+
 ## Writing
-I mostly write on our [company blog](https://dimo.zone/writing/).  
+I mostly write on our [company blog](https://dimo.zone/writing/). Occasionally I'll post on this site. 
 
