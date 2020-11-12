@@ -29,9 +29,9 @@ This is the website of Andy Chatham (me). It runs on [IPFS](https://ipfs.io)
  
 ## Skin in the Game
 I am a (Small) Investor in some other projects: 
-	- [VoltServer](https://voltserver.com/)
-	- [Stumptown Whitefish](http://www.stumptowninnofwhitefish.com/)
-	- Web3: Filecoin, Blockstack
+- [VoltServer](https://voltserver.com/)
+- [Stumptown Whitefish](http://www.stumptowninnofwhitefish.com/)
+- Web3: Filecoin, Blockstack
 
 ## Writing, Reading, Listening
 - I  write on the DIMO [company blog](https://dimo.zone/writing/). Occasionally I'll post on this site if I have something to say. 
