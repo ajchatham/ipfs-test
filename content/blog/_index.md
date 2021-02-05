@@ -6,4 +6,4 @@ notoc: true
 
 # Andy Chatham's Blog
 
-This is my blog, yo.
+I'm writing on the [DIMO](dimo.zone) blog for now. When I have something personal to post, I'll share it here. 
