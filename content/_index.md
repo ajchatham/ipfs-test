@@ -20,13 +20,13 @@ You can find [DIMO at](https://dimo.zone/) and I'm usually on discord [here](htt
 ### Past Experience: 
 
 #### I worked in 3 different roles over nearly 7 years in 5 different cities with [Transdev](https://www.transdev.com/en/)
-- GM of California, responsible for our work with [Waymo](https://waymo.com/) 
-- Director of automated shuttle projects in North America:
-	- Babcock Ranch [Florida](https://www.forbes.com/sites/johnmcmanus/2018/10/22/in-autonomous-vehicles-future-garages-go-away-heres-10-big-re-impacts/#5855e23e4dc0)
-	- 61AV [Denver](https://www.rtd-denver.com/projects/61av)
-	- Olympic Park [Montreal](https://nextcity.org/daily/entry/autonomous-shuttles-passenger-service-montreal)
-- Director of Product @ Transdev On-Demand
-	- Built software for 10k+ drivers and 10m+ users of SuperShuttle, ExecuCar, and Taxi fleets (remember those?) 
+	- GM of California, responsible for our work with [Waymo](https://waymo.com/) 
+	- Director of automated shuttle projects in North America:
+		- Babcock Ranch [Florida](https://www.forbes.com/sites/johnmcmanus/2018/10/22/in-autonomous-vehicles-future-garages-go-away-heres-10-big-re-impacts/#5855e23e4dc0)
+		- 61AV [Denver](https://www.rtd-denver.com/projects/61av)
+		- Olympic Park [Montreal](https://nextcity.org/daily/entry/autonomous-shuttles-passenger-service-montreal)
+	- Director of Product @ Transdev On-Demand
+		- Built software for 10k+ drivers and 10m+ users of SuperShuttle, ExecuCar, and Taxi fleets (remember those?) 
 
 #### Before Transdev, I lived and worked in Las Vegas: 
 	- First employee of [Project 100](https://www.bloomberg.com/news/articles/2014-03-04/las-vegas-of-all-places-may-be-about-to-reinvent-car-ownership) (later called SHIFT) an early Mobility-as-a-Service company. We built a 1MW EV Charging Hub, which at the time was the largest in the world. 
