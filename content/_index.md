@@ -32,10 +32,10 @@ You can find [DIMO at](https://dimo.zone/) and I'm usually on discord [here](htt
 - First employee of [Project 100](https://www.bloomberg.com/news/articles/2014-03-04/las-vegas-of-all-places-may-be-about-to-reinvent-car-ownership) (later called SHIFT) an early Mobility-as-a-Service company. We built a 1MW EV Charging Hub, which at the time was the largest in the world. One of those projects that was well ahead of it's time, but an incredible learning experience.  
 - I helped build the [Zappos.com HQ](https://officesnapshots.com/2013/12/16/new-zappos-downtown-las-vegas-headquarters/) and some other office spaces in downtown Las Vegas. I went toe-to-toe with the payphone king of Las Vegas and lived to tell the tale. 
 
-#### I got my start in the business world at Cornell in Ithaca New York in 2009, when Andy Bernard was at peak popularity. [Ever heard of it?](https://www.youtube.com/watch?v=rKSti1O0Bio)
-	- Fellow, 2012 class of [Venture for America](https://ventureforamerica.org/) 
-	- President, [Student Agencies Inc](https://www.studentagencies.com/)
-	- General Manager [Big Red Shipping & Storage](https://www.bigredboxes.com/)
+#### I got my start in the business world at Cornell in Ithaca New York in 2009. Unfortunately this was just after Ed Helms (Andy Bernard) was added to the office. [Ever heard of it?](https://www.youtube.com/watch?v=rKSti1O0Bio)
+- Fellow, 2012 class of [Venture for America](https://ventureforamerica.org/) 
+- President, [Student Agencies Inc](https://www.studentagencies.com/)
+- General Manager [Big Red Shipping & Storage](https://www.bigredboxes.com/)
 
  
  
