@@ -19,7 +19,7 @@ You can find [DIMO at](https://dimo.zone/) and I'm usually on discord [here](htt
 
 ### Past Experience: 
 
-#### I worked in 3 different roles over nearly 7 years in 5 different cities with [Transdev](https://www.transdev.com/en/)
+#### I worked for [Transdev](https://www.transdev.com/en/) in 3 different roles over 7 years in 5 different cities. 
 - GM of California, responsible for our work with [Waymo](https://waymo.com/) 
 - Director of automated shuttle projects in North America:
 	- Babcock Ranch [Florida](https://www.forbes.com/sites/johnmcmanus/2018/10/22/in-autonomous-vehicles-future-garages-go-away-heres-10-big-re-impacts/#5855e23e4dc0)
@@ -43,7 +43,7 @@ You can find [DIMO at](https://dimo.zone/) and I'm usually on discord [here](htt
 I am a (Small) Investor in some other projects: 
 - [VoltServer](https://voltserver.com/)
 - [Stumptown Whitefish](http://www.stumptowninnofwhitefish.com/)
-- Web3: Filecoin, Blockstack
+- [Filecoin](https://filecoin.io/)
 
 ## Writing, Reading, Listening
 - I  write on the DIMO [company blog](https://dimo.zone/writing/). Occasionally I'll post on this site if I have something to say. 
