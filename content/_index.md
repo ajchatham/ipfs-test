@@ -13,9 +13,8 @@ This is the website of Andy Chatham (me). It runs on [IPFS](https://ipfs.io)
 I spend my working hours thinking about the future and building things with new technologies. 
 
 ### Currently: 
-- Founder: [DIMO] (Digital Infrastructure for Moving Objects) 
+- Founder: [DIMO](https://dimo.zone/) (Digital Infrastructure for Moving Objects) 
 - Consulting & Investing: Digital Infrastructure Services. 
-You can find [DIMO at](https://dimo.zone/) and I'm usually on discord [here](https://discord.gg/Z9CU95umM9)
 
 ### Past Experience: 
 
@@ -29,10 +28,10 @@ You can find [DIMO at](https://dimo.zone/) and I'm usually on discord [here](htt
 		- Built software for 10k+ drivers and 10m+ users of SuperShuttle, ExecuCar, and Taxi fleets (remember those?) 
 
 #### Before Transdev, I lived and worked in Las Vegas: 
-- First employee of [Project 100](https://www.bloomberg.com/news/articles/2014-03-04/las-vegas-of-all-places-may-be-about-to-reinvent-car-ownership) (later called SHIFT) an early Mobility-as-a-Service company. We built a 1MW EV Charging Hub, which at the time was the largest in the world. One of those projects that was well ahead of it's time, but an incredible learning experience.  
+- First employee of [Project 100](https://www.bloomberg.com/news/articles/2014-03-04/las-vegas-of-all-places-may-be-about-to-reinvent-car-ownership) (later called SHIFT) an early Mobility-as-a-Service company. We built a 1MW EV Charging Hub, which at the time was the largest in the world. 
 - I helped build the [Zappos.com HQ](https://officesnapshots.com/2013/12/16/new-zappos-downtown-las-vegas-headquarters/) and some other office spaces in downtown Las Vegas. I went toe-to-toe with the payphone king of Las Vegas and lived to tell the tale. 
 
-#### I got my start in the business world at Cornell in Ithaca New York in 2009. Unfortunately this was just after Ed Helms (Andy Bernard) was added to the office. [Ever heard of it?](https://www.youtube.com/watch?v=rKSti1O0Bio)
+#### I went to college at Cornell in Ithaca New York. Unfortunately this was just after Ed Helms (Andy Bernard) was added to the office. [Ever heard of it?](https://www.youtube.com/watch?v=rKSti1O0Bio)
 - Fellow, 2012 class of [Venture for America](https://ventureforamerica.org/) 
 - President, [Student Agencies Inc](https://www.studentagencies.com/)
 - General Manager [Big Red Shipping & Storage](https://www.bigredboxes.com/)
@@ -52,6 +51,6 @@ I am a (Small) Investor in some other projects:
 ## Hacking
 - Home Automation with [HomeAssistant](https://www.home-assistant.io/)
 - Running [Helium](https://www.helium.com/technology) Nodes 
-- Experimenting with new projects like Urbit, $ESSAY, Gather.town and more. 
+- Experimenting with web3 projects like Urbit, $ESSAY, Gather.town and more. 
 
 
