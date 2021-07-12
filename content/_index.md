@@ -6,15 +6,15 @@ layout: "single"
 ---
 
 # Welcome
-This is the website of Andy Chatham (me). It runs on [IPFS](https://ipfs.io)
+This my personal website. It runs on [IPFS](https://ipfs.io) and is available at [ajchatham.eth](https://ajchatham.eth/)
 
 ## Work
 
-I spend my working hours thinking about the future and building things with new technologies. 
+I spend most of my working time thinking about the future and building products with new technologies. 
 
 ### Currently: 
 - Founder: [DIMO](https://dimo.zone/) (Digital Infrastructure for Moving Objects) 
-- Consulting & Investing: Digital Infrastructure Services. 
+- Consulting & Investing: [Digital Infrastructure Services](https://dimo.zone/orgs-listing/?id=reczSBl0aPTSaO9rK&template=public-single-org). 
 
 ### Past Experience: 
 
@@ -50,7 +50,7 @@ I am a (Small) Investor in some other projects:
 
 ## Hacking
 - Home Automation with [HomeAssistant](https://www.home-assistant.io/)
-- Running [Helium](https://www.helium.com/technology) Nodes 
-- Experimenting with web3 projects like Urbit, $ESSAY, Gather.town and more. 
+- Running [Helium](https://www.helium.com/technology) Nodes & [Mapping the Helium Network](https://mappers.helium.com/)
+- Experimenting with web3 projects like Urbit, $ESSAY, [Decentraland](https://decentraland.org/) and more. 
 
 
