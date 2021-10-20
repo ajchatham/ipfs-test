@@ -10,6 +10,7 @@ I am the founder of [Digital Infrastructure Inc.](https://dimo.zone) a technolog
 I like to move things around, and I move around a lot too.
 
 Places I've lived: 
+- Newton, Massachusetts
 - Wickford, Rhode Island
 - Ithaca, New York
 - Las Vegas, Nevada
@@ -18,6 +19,7 @@ Places I've lived:
 - New York City 
 - Palo Alto, California
 - Los Angeles, California 
+- Providence, Rhode Island (Current)
 
 [PressKit](../presskit)
 
