@@ -14,7 +14,6 @@ I spend most of my working time thinking about the future and building products 
 
 ### Currently: 
 - Founder: [DIMO](https://dimo.zone/) (Digital Infrastructure for Moving Objects) 
-- Consulting & Investing: [Digital Infrastructure Services](https://dimo.zone/orgs-listing/?id=reczSBl0aPTSaO9rK&template=public-single-org). 
 
 ### Past Experience: 
 
