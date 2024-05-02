@@ -6,4 +6,6 @@ notoc: true
 
 # Andy Chatham's Blog
 
-I'm writing on the [DIMO](dimo.zone) blog for now. When I have something personal to post, I'll share it here. 
+When I make content, I'll share it here. 
+
+<iframe src="https://paragraph.xyz/@articulated/embed" width="480" height="380" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
