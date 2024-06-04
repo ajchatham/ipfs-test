@@ -55,4 +55,4 @@ Places I've lived:
 
 [PressKit](../presskit)
 
-<img src="../presskit/headshots/andy-chatham-headshot.jpg" width="256px" />
+<img src="../presskit/headshots/Andy Headshot.jpg" width="256px" />
