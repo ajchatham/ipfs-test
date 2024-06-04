@@ -12,14 +12,12 @@ This my personal website. It runs on [IPFS](https://ipfs.io) and is available at
 
 I spend most of my working time building products with new technologies. 
  
-## Skin in the Game
-I am a (Small) Investor in some other bits and atoms: 
-- [VoltServer](https://voltserver.com/)
-- [Apres Whitefish](http://www.stumptowninnofwhitefish.com/) & [Johnson's Beach](https://www.johnsonsbeach.com/)
-- [Filecoin](https://filecoin.io/)
+
 
 ## Writing, Reading, Listening
-- I  write on the DIMO [company blog](https://dimo.zone/writing/). Occasionally I'll post on this site if I have something to say. 
+- I  wrote on the DIMO [company blog for 4 years](https://dimo.zone/writing/).
+- On Twitter (x) & Farcaster
+
 - I've been building a few [Playlists](https://open.spotify.com/user/125411272) on Spotify since 2009 
 
 ## Hacking
