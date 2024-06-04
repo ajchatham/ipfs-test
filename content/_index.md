@@ -6,7 +6,7 @@ layout: "single"
 ---
 
 # Welcome
-This my personal website. It runs on [IPFS](https://ipfs.io) and is available at [ajchatham.eth](https://ajchatham.eth/)
+This my personal website. It runs on [IPFS](https://ipfs.io) 
 
 ## What I'm Working On Now
 Working with founders to help accelerate progress towards their visions. 
