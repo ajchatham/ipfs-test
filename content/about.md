@@ -5,16 +5,6 @@ date: 2019-03-01T13:38:47+01:00
 
 # Andy Chatham
 
-### Currently: 
-Incubating new products and services on user-owned networks like DIMO. 
-Working with founders to help accelerate progress towards their visions. 
-
-## Skin in the Game
-I Invest time & money in bits and atoms: 
-- [Automicle](https://www.automicle.com/)
-- [VoltServer](https://voltserver.com/)
-- [Apres Whitefish](http://www.stumptowninnofwhitefish.com/) & [Johnson's Beach](https://www.johnsonsbeach.com/)
-- [Filecoin](https://filecoin.io/)
 
 ### Experience: 
 I founded of [Digital Infrastructure Inc.](https://drivedimo.com) a technology and services firm that connects the digital and physical world to produce useful work.  
@@ -33,7 +23,14 @@ This company incubated [DIMO](https://dimo.zone), the leading user-owned connect
 
 #### Before Transdev, I lived and worked in Las Vegas: 
 - First employee of [Project 100](https://www.bloomberg.com/news/articles/2014-03-04/las-vegas-of-all-places-may-be-about-to-reinvent-car-ownership) (later called SHIFT) an early Mobility-as-a-Service company. We built a 1MW EV Charging Hub, which at the time was the largest in the world. 
-- I helped build the [Zappos.com HQ](https://officesnapshots.com/2013/12/16/new-zappos-downtown-las-vegas-headquarters/) and some other office spaces in downtown Las Vegas. I went toe-to-toe with the payphone king of Las Vegas and lived to tell the tale. 
+- I helped build the [Zappos.com HQ](https://officesnapshots.com/2013/12/16/new-zappos-downtown-las-vegas-headquarters/) and some other office spaces in downtown Las Vegas. I went toe-to-toe with the payphone king of Las Vegas and lived to tell the tale.
+
+## Skin in the Game
+I Invest time & money in bits and atoms: 
+- [Automicle](https://www.automicle.com/)
+- [VoltServer](https://voltserver.com/)
+- [Apres Whitefish](http://www.stumptowninnofwhitefish.com/) & [Johnson's Beach](https://www.johnsonsbeach.com/)
+- [Filecoin](https://filecoin.io/)
 
 #### I went to college at Cornell in Ithaca New York. Unfortunately this was just after Ed Helms (Andy Bernard) was added to the office. [Ever heard of it?](https://www.youtube.com/watch?v=rKSti1O0Bio)
 - Fellow, 2012 class of [Venture for America](https://ventureforamerica.org/) 
