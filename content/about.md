@@ -6,6 +6,7 @@ date: 2019-03-01T13:38:47+01:00
 # Andy Chatham
 
 ### Currently: 
+Incubating new products and services on user-owned networks like DIMO. 
 Working with founders to help accelerate progress towards their visions. 
 
 ## Skin in the Game
