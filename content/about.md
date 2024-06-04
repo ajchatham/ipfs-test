@@ -8,6 +8,13 @@ date: 2019-03-01T13:38:47+01:00
 ### Currently: 
 Working with founders to help accelerate progress towards their visions. 
 
+## Skin in the Game
+I Invest time & money in bits and atoms: 
+- [Automicle](https://www.automicle.com/)
+- [VoltServer](https://voltserver.com/)
+- [Apres Whitefish](http://www.stumptowninnofwhitefish.com/) & [Johnson's Beach](https://www.johnsonsbeach.com/)
+- [Filecoin](https://filecoin.io/)
+
 ### Experience: 
 I founded of [Digital Infrastructure Inc.](https://drivedimo.com) a technology and services firm that connects the digital and physical world to produce useful work.  
 
